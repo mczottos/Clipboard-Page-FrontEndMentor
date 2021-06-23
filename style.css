@@ -132,7 +132,7 @@ section.features .two-column-container img.computer-img {
 }
 
 section.features .two-column-container .properties {
-    width: 450px;
+    width: 300px;
     margin-left: 6rem;
 }
 
@@ -274,7 +274,7 @@ footer .social a svg:hover path {
         width: 970px;
     }
     section.features .two-column-container .properties {
-        width: 300px;
+        width: 250px;
         margin-left: 4rem;
     }
     section.features .three-column-container {
